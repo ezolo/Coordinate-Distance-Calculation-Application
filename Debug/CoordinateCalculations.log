@@ -1,0 +1,4 @@
+﻿  CoordinateCalculations.cpp
+C:\Users\Eva\source\repos\CoordinateCalculations\CoordinateCalculations.cpp(18,23): warning C4101: 'positionB': unreferenced local variable
+C:\Users\Eva\source\repos\CoordinateCalculations\CoordinateCalculations.cpp(18,7): warning C4101: 'positionA': unreferenced local variable
+  CoordinateCalculations.vcxproj -> C:\Users\Eva\source\repos\CoordinateCalculations\Debug\CoordinateCalculations.exe

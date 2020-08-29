@@ -1,0 +1,2 @@
+C:\Users\Eva\source\repos\CoordinateCalculations\Debug\CoordinateCalculations.exe
+C:\Users\Eva\source\repos\CoordinateCalculations\Debug\CoordinateCalculations.pdb
